@@ -1,0 +1,10 @@
+* cl-patterns
+
+Library for writing patterns to generate or process (a)musical sequences of mathematically (un)related (non-)compound values in Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/defaultxr/cl-patterns.git   |
+| commit  | d7ee3a6  |
+| systems | cl-patterns |
+|---------+-------------------------------------------|
+
