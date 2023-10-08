@@ -4,6 +4,6 @@ Library for writing patterns to generate or process (a)musical sequences of math
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/defaultxr/cl-patterns.git |
-| commit  | 34bbf6b                                          |
+| commit  | 02e7a5f                                          |
 | systems | cl-patterns                                      |
 |---------+--------------------------------------------------|
